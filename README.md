@@ -1,2 +1,2 @@
-# Calculadora-de-media
+# Calculadora de media
 Calculadora de média em JavaScript
